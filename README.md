@@ -1,2 +1,2 @@
-Employee_Social_Media
+Employee Social Media
 React & Springboot
